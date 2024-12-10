@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Construtores_Encapsulamento_etc/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IntroducaoPOO/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Listas_Arrays_Memory/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data_Hora/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Enumeracoes_Composicao/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
